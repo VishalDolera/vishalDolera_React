@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0c6211806c9bd8d7b5b8c61bec0fd19",
+    "revision": "528f00757b71c9b61cf77b408a22e09e",
     "url": "/vishalDolera_React/index.html"
   },
   {
-    "revision": "9ca8f40db88d74f75046",
+    "revision": "e29be2e9e488e72a6ac2",
     "url": "/vishalDolera_React/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "f0798dae98c7f1c0c5cd",
+    "revision": "aa9a0e96646633af8617",
     "url": "/vishalDolera_React/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "9ca8f40db88d74f75046",
-    "url": "/vishalDolera_React/static/js/2.fd41df34.chunk.js"
+    "revision": "e29be2e9e488e72a6ac2",
+    "url": "/vishalDolera_React/static/js/2.2ee2a564.chunk.js"
   },
   {
-    "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/vishalDolera_React/static/js/2.fd41df34.chunk.js.LICENSE.txt"
+    "revision": "cacaf3f01dd3bd8237006f7c58951c1c",
+    "url": "/vishalDolera_React/static/js/2.2ee2a564.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0798dae98c7f1c0c5cd",
-    "url": "/vishalDolera_React/static/js/main.45dd9e45.chunk.js"
+    "revision": "aa9a0e96646633af8617",
+    "url": "/vishalDolera_React/static/js/main.dbfe1602.chunk.js"
   },
   {
     "revision": "8c2d34b39af955f89b9a",
